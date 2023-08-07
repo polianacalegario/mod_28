@@ -1,0 +1,29 @@
+**Estudo de Caso: Gerenciamento de Conta Bancária - Banco Fictício**
+
+O Banco Fictício é uma instituição financeira inovadora que oferece serviços bancários digitais aos seus clientes. Eles estão buscando desenvolver uma aplicação web que permita aos usuários visualizar e controlar suas movimentações de conta de forma eficiente.
+
+A aplicação deve ser capaz de receber e exibir uma lista de gastos, calcular o saldo restante após esses gastos e apresentar informações relevantes de maneira clara e atraente. Além disso, a aplicação deve seguir as práticas modernas de desenvolvimento web, incluindo o uso avançado de JavaScript para manipulação do DOM, estilos CSS para design responsivo e uma estrutura HTML semântica.
+
+**Requisitos Funcionais: **
+
+1. A aplicação deve exibir o cabeçalho "Banco Fictício" no topo da página.
+2. Deve haver uma seção principal onde os gastos serão exibidos em uma lista.
+3. O saldo restante após os gastos deve ser calculado e exibido na página.
+4. A aplicação deve ter um rodapé indicando "Desenvolvido por [seu nome]".
+
+**Requisitos Técnicos: **
+
+1. A aplicação deve ser desenvolvida usando HTML, CSS e JavaScript.
+2. A lista de gastos deve ser gerada dinamicamente usando JavaScript.
+3. A formatação de cores e fontes deve seguir o estilo especificado (azul e branco, fonte Lato).
+4. A aplicação deve ser responsiva e se ajustar bem a diferentes tamanhos de tela.
+5. O código JavaScript deve utilizar recursos avançados como manipulação de DOM, loops, arrays e funções.
+6. O código CSS deve utilizar seletores e estilos apropriados para garantir um design agradável e coeso.
+
+**Cenário de Uso: **
+
+Um usuário acessa a página da aplicação para verificar suas movimentações bancárias. Ele vê a lista de gastos exibida na seção principal, junto com o saldo restante de sua conta bancária após as movimentações. Ele também nota o cabeçalho "Banco Fictício" e o rodapé com o nome do desenvolvedor.
+
+**Observações Finais: **
+
+A aplicação desenvolvida deve atender a esses requisitos funcionais e técnicos, proporcionando uma experiência de usuário agradável e eficiente para o gerenciamento das movimentações de conta bancária. Além disso, as práticas de desenvolvimento moderno, incluindo o uso avançado de JavaScript, devem ser aplicadas para garantir a qualidade e a robustez do código.
